@@ -1,9 +1,6 @@
 # Data Analyst Portfolio
 Welcome to my data analyst portfolio! This repository showcases some of the data analysis projects I have completed, as well as my technical skills in data analysis.
 
-Projects
-The following projects are included in this portfolio:
-
 Project: Sales Analysis - This project involved analyzing sales data for a company and identifying trends and insights to help the company make better business decisions.
 Tools and Skills
 The following tools and skills were used in these projects:
@@ -16,15 +13,6 @@ Exploratory data analysis
 Statistical analysis
 Data visualization
 Machine learning (Clustering, Regression)
-
-Folder Structure
-The repository is structured as follows:
-
-data-analyst-portfolio/
-├── data/
-├── analysis/
-├── results/
-└── report.pdf
 
 Each project has its own folder containing the data, analysis, results, and a report in PDF format.
 
